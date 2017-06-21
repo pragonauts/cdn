@@ -1,0 +1,450 @@
+[
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150715",
+        "REPDESC": "yesterday total",
+        "REPID": 1,
+        "REPNAME": "D2D",
+        "VAL": 13700000.0
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150709",
+        "REPDESC": "same day last week",
+        "REPID": 7,
+        "REPNAME": "W2W",
+        "VAL": 14400000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150618",
+        "REPDESC": "same day last month",
+        "REPID": 28,
+        "REPNAME": "M2M",
+        "VAL": 12500000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20140717",
+        "REPDESC": "same day last year",
+        "REPID": 364,
+        "REPNAME": "Y2Y",
+        "VAL": 9500000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150706",
+        "REPDESC": "last week monday",
+        "REPID": 700,
+        "REPNAME": "LW_MON",
+        "VAL": 10400000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150707",
+        "REPDESC": "last week tuesday",
+        "REPID": 701,
+        "REPNAME": "LW_TUE",
+        "VAL": 15500000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150708",
+        "REPDESC": "last week wednesday",
+        "REPID": 702,
+        "REPNAME": "LW_WED",
+        "VAL": 15100000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150709",
+        "REPDESC": "last week thursday",
+        "REPID": 703,
+        "REPNAME": "LW_THU",
+        "VAL": 14400000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150710",
+        "REPDESC": "last week friday",
+        "REPID": 704,
+        "REPNAME": "LW_FRI",
+        "VAL": 9500000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150711",
+        "REPDESC": "last week saturday",
+        "REPID": 705,
+        "REPNAME": "LW_SAT",
+        "VAL": 5900000.00
+    },
+    {
+        "COUNTRY": "CZ10",
+        "REPDATE": "20150712",
+        "REPDESC": "last week sunday",
+        "REPID": 706,
+        "REPNAME": "LW_SUN",
+        "VAL": 11200000.00
+    },
+    {
+        "COUNTRY": "CZ20",
+        "REPDATE": "20140717",
+        "REPDESC": "same day last year",
+        "REPID": 364,
+        "REPNAME": "Y2Y",
+        "VAL": 123.45
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150715",
+        "REPDESC": "yesterday total",
+        "REPID": 1,
+        "REPNAME": "D2D",
+        "VAL": 27400000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150709",
+        "REPDESC": "same day last week",
+        "REPID": 7,
+        "REPNAME": "W2W",
+        "VAL": 59500000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150618",
+        "REPDESC": "same day last month",
+        "REPID": 28,
+        "REPNAME": "M2M",
+        "VAL": 50000000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20140717",
+        "REPDESC": "same day last year",
+        "REPID": 364,
+        "REPNAME": "Y2Y",
+        "VAL": 14900000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150706",
+        "REPDESC": "last week monday",
+        "REPID": 700,
+        "REPNAME": "LW_MON",
+        "VAL": 32400000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150707",
+        "REPDESC": "last week tuesday",
+        "REPID": 701,
+        "REPNAME": "LW_TUE",
+        "VAL": 32800000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150708",
+        "REPDESC": "last week wednesday",
+        "REPID": 702,
+        "REPNAME": "LW_WED",
+        "VAL": 41600000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150709",
+        "REPDESC": "last week thursday",
+        "REPID": 703,
+        "REPNAME": "LW_THU",
+        "VAL": 59500000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150710",
+        "REPDESC": "last week friday",
+        "REPID": 704,
+        "REPNAME": "LW_FRI",
+        "VAL": 22700000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150711",
+        "REPDESC": "last week saturday",
+        "REPID": 705,
+        "REPNAME": "LW_SAT",
+        "VAL": 11400000.00
+    },
+    {
+        "COUNTRY": "HU10",
+        "REPDATE": "20150712",
+        "REPDESC": "last week sunday",
+        "REPID": 706,
+        "REPNAME": "LW_SUN",
+        "VAL": 14000000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150715",
+        "REPDESC": "yesterday total",
+        "REPID": 1,
+        "REPNAME": "D2D",
+        "VAL": 360000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150709",
+        "REPDESC": "same day last week",
+        "REPID": 7,
+        "REPNAME": "W2W",
+        "VAL": 437000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150618",
+        "REPDESC": "same day last month",
+        "REPID": 28,
+        "REPNAME": "M2M",
+        "VAL": 409000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20140717",
+        "REPDESC": "same day last year",
+        "REPID": 364,
+        "REPNAME": "Y2Y",
+        "VAL": 268000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150706",
+        "REPDESC": "last week monday",
+        "REPID": 700,
+        "REPNAME": "LW_MON",
+        "VAL": 662000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150707",
+        "REPDESC": "last week tuesday",
+        "REPID": 701,
+        "REPNAME": "LW_TUE",
+        "VAL": 519000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150708",
+        "REPDESC": "last week wednesday",
+        "REPID": 702,
+        "REPNAME": "LW_WED",
+        "VAL": 524000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150709",
+        "REPDESC": "last week thursday",
+        "REPID": 703,
+        "REPNAME": "LW_THU",
+        "VAL": 437000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150710",
+        "REPDESC": "last week friday",
+        "REPID": 704,
+        "REPNAME": "LW_FRI",
+        "VAL": 281000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150711",
+        "REPDESC": "last week saturday",
+        "REPID": 705,
+        "REPNAME": "LW_SAT",
+        "VAL": 141000.00
+    },
+    {
+        "COUNTRY": "PL10",
+        "REPDATE": "20150712",
+        "REPDESC": "last week sunday",
+        "REPID": 706,
+        "REPNAME": "LW_SUN",
+        "VAL": 170000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150715",
+        "REPDESC": "yesterday total",
+        "REPID": 1,
+        "REPNAME": "D2D",
+        "VAL": 113000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150709",
+        "REPDESC": "same day last week",
+        "REPID": 7,
+        "REPNAME": "W2W",
+        "VAL": 81000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150618",
+        "REPDESC": "same day last month",
+        "REPID": 28,
+        "REPNAME": "M2M",
+        "VAL": 95000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20140717",
+        "REPDESC": "same day last year",
+        "REPID": 364,
+        "REPNAME": "Y2Y",
+        "VAL": 61000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150706",
+        "REPDESC": "last week monday",
+        "REPID": 700,
+        "REPNAME": "LW_MON",
+        "VAL": 121000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150707",
+        "REPDESC": "last week tuesday",
+        "REPID": 701,
+        "REPNAME": "LW_TUE",
+        "VAL": 106000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150708",
+        "REPDESC": "last week wednesday",
+        "REPID": 702,
+        "REPNAME": "LW_WED",
+        "VAL": 112000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150709",
+        "REPDESC": "last week thursday",
+        "REPID": 703,
+        "REPNAME": "LW_THU",
+        "VAL": 81000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150710",
+        "REPDESC": "last week friday",
+        "REPID": 704,
+        "REPNAME": "LW_FRI",
+        "VAL": 77000.00
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150711",
+        "REPDESC": "last week saturday",
+        "REPID": 705,
+        "REPNAME": "LW_SAT",
+        "VAL": 40359.27
+    },
+    {
+        "COUNTRY": "SI10",
+        "REPDATE": "20150712",
+        "REPDESC": "last week sunday",
+        "REPID": 706,
+        "REPNAME": "LW_SUN",
+        "VAL": 61000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150715",
+        "REPDESC": "yesterday total",
+        "REPID": 1,
+        "REPNAME": "D2D",
+        "VAL": 163000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150709",
+        "REPDESC": "same day last week",
+        "REPID": 7,
+        "REPNAME": "W2W",
+        "VAL": 143000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150618",
+        "REPDESC": "same day last month",
+        "REPID": 28,
+        "REPNAME": "M2M",
+        "VAL": 136000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20140717",
+        "REPDESC": "same day last year",
+        "REPID": 364,
+        "REPNAME": "Y2Y",
+        "VAL": 102000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150706",
+        "REPDESC": "last week monday",
+        "REPID": 700,
+        "REPNAME": "LW_MON",
+        "VAL": 178000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150707",
+        "REPDESC": "last week tuesday",
+        "REPID": 701,
+        "REPNAME": "LW_TUE",
+        "VAL": 188000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150708",
+        "REPDESC": "last week wednesday",
+        "REPID": 702,
+        "REPNAME": "LW_WED",
+        "VAL": 174000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150709",
+        "REPDESC": "last week thursday",
+        "REPID": 703,
+        "REPNAME": "LW_THU",
+        "VAL": 143000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150710",
+        "REPDESC": "last week friday",
+        "REPID": 704,
+        "REPNAME": "LW_FRI",
+        "VAL": 117000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150711",
+        "REPDESC": "last week saturday",
+        "REPID": 705,
+        "REPNAME": "LW_SAT",
+        "VAL": 67000.00
+    },
+    {
+        "COUNTRY": "SK10",
+        "REPDATE": "20150712",
+        "REPDESC": "last week sunday",
+        "REPID": 706,
+        "REPNAME": "LW_SUN",
+        "VAL": 119000.00
+    }
+]
